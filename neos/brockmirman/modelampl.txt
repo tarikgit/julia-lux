@@ -1,0 +1,6 @@
+
+solve;
+
+#option knitro_options 'KNITRO';
+
+
