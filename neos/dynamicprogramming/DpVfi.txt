@@ -1,0 +1,9 @@
+option solver "./knitroampl";
+
+model;
+include /media/disk/macbook/summerschools/ice2008/course/day4/dynamicprogrammingAMPL/DpVfi.mod;
+
+data;
+include /media/disk/macbook/summerschools/ice2008/course/day4/dynamicprogrammingAMPL/DpVfi.dat;
+
+solve;

@@ -1,0 +1,15 @@
+
+#option solver "./pathampl";
+option solver "./knitroampl";
+
+model;
+#include "/Volumes/NO NAME/macbook/mywork/code/SOLUTION/ampl/approximation/dimension1/ChebyshevApproxV1.mod";
+include "/media/disk/macbook/mywork/code/SOLUTION/ampl/projection/brockmirman/bmproj.mod";
+
+#let y := 0.594435;
+
+#solve;
+
+#display poly;
+#display y, c, n, v, Upsilon, Theta, lambda, mu;
+

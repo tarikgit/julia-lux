@@ -1,0 +1,17 @@
+
+#option solver "./pathampl";
+option solver "./knitroampl";
+
+model;
+ include "/Volumes/NO NAME/macbook/mywork/code/SOLUTION/ampl/dynamicprogramming/rbcvfiV1.mod";
+# include "/media/disk/macbook/mywork/code/SOLUTION/dynare/dhrw/2008C/ampl/modelampl.mod";
+# include "/media/disk/macbook/mywork/code/SOLUTION/dynare/dhrw/2008C/ampl/modelamplWalshK.mod";
+#include "/media/disk/macbook/mywork/code/SOLUTION/dynare/dhrw/2008C/ampl/modelamplWalshEXO.mod";
+
+#let y := 0.594435;
+
+solve;
+
+#display c, K, a;
+#display y, c, n, v, Upsilon, Theta, lambda, mu;
+
