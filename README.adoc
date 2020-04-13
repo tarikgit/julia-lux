@@ -1,7 +1,23 @@
 = Description of data
 
-== Approvisionnement mensuel en électricité (en kWh)
+All the data used here is taken from statec.lu .
 
-* link:https://github.com/tarikgit/julia-lux/blob/gh-pages/data/a4102.csv[csv data]
+== Monthly electricity supply (in million kWh)
 
-image::images/test.svg[]
+* Data used to produce the plots below can be downloaded link:https://github.com/tarikgit/julia-lux/blob/gh-pages/data/a4102.csv[here: csv data]
+* link:http://www.statistiques.public.lu/stat/ReportFolders/ReportFolder.aspx?IF_Language=fra&MainTheme=1&FldrName=4[Download data here] by following _Conjoncure énergétique_ -> _Approvisionnement mensuel en électricité (en kWh) ..._
+
+image::images/imports-electricity.svg[align=center, title-align=center] 
+
+image::images/exports-electricity.svg[align=center, title-align=center] 
+
+== Atmospheric pressure in Luxembourg City
+
+* Data used to produce the plots below can be downloaded link:https://github.com/tarikgit/julia-lux/blob/gh-pages/data/a2105.csv[here: csv data]
+* link:https://statistiques.public.lu/stat/ReportFolders/ReportFolder.aspx?IF_Language=fra&MainTheme=1&FldrName=2[Download data here] by following _Pression atmosphérique à Luxembourg-Ville ..._
+
+image::images/atmospheric-pressure-luxembourg.svg[align=center, title-align=center] 
+
+== Education in Luxembourg
+
+image::images/postelementary-students.svg[align=center, title-align=center] 
