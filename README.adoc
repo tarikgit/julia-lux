@@ -20,4 +20,8 @@ image::images/atmospheric-pressure-luxembourg.svg[align=center, title-align=cent
 
 == Education in Luxembourg
 
+* Data used to produce the plots below can be downloaded link:https://github.com/tarikgit/julia-lux/blob/gh-pages/data/c6300revised.csv[here: csv data]
+* link:https://statistiques.public.lu/stat/ReportFolders/ReportFolder.aspx?IF_Language=fra&MainTheme=3&FldrName=6&RFPath=59[Download data here] by following _Enseignement postprimaire_ -> _Élèves dans l'enseignement postprimaire 1991/1992 - 2017/2018 (version révisée) ..._
+
+
 image::images/postelementary-students.svg[align=center, title-align=center] 
