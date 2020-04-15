@@ -25,3 +25,15 @@ image::images/atmospheric-pressure-luxembourg.svg[align=center, title-align=cent
 
 
 image::images/postelementary-students.svg[align=center, title-align=center] 
+
+== Inflation and CPI
+
+Consumer price index (NCPI Base 100 au 1.1.1948) 1948 - 2020
+
+* Data used to produce the plots below can be downloaded link:https://github.com/tarikgit/julia-lux/blob/gh-pages/data/e5100.csv[here: csv data]
+* link:http://www.statistiques.public.lu/stat/ReportFolders/ReportFolder.aspx?IF_Language=eng&MainTheme=5&FldrName=5[Download data here] by following _Consumer price index ..._
+
+
+image::images/cpi-long-luxembourg.svg[align=center, title-align=center] 
+
+image::images/cpi-short-luxembourg.svg[align=center, title-align=center] 
