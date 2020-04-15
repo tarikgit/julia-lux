@@ -43,3 +43,16 @@ image::images/cpi-short-luxembourg.svg[align=center, title-align=center]
 
 * link:https://statistiques.public.lu/stat/ReportFolders/ReportFolder.aspx?IF_Language=eng&MainTheme=2&FldrName=1[Download data here] by following _Consumer price index ..._
 
+== Real Estate
+
+* Data used to produce the plots below can be downloaded link:https://github.com/tarikgit/julia-lux/blob/gh-pages/data/a1101.csv[here: csv data]
+* link:https://statistiques.public.lu/stat/ReportFolders/ReportFolder.aspx?IF_Language=eng&MainTheme=1&FldrName=1[Download data here] by following _Land use (in %) ..._
+
+image::images/land-use-agricultural-wooden-area.svg[align=center, title-align=center] 
+
+image::images/land-use-built-up-area.svg[align=center, title-align=center] 
+
+image::images/land-use-industrial-area.svg[align=center, title-align=center] 
+
+* link:http://observatoire.liser.lu/prixenregistres.cfm?pageKw=pe_appart_tableaux_recap2[Observed real estate prices] from the _Observatoire de l'habitat_ .
+
