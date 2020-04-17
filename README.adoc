@@ -38,6 +38,7 @@ image::images/cpi-long-luxembourg.svg[align=center, title-align=center]
 
 image::images/cpi-short-luxembourg.svg[align=center, title-align=center] 
 
+* link:http://www.eluxemburgensia.lu/webclient/DeliveryManager?application=DIRECTLINK&custom_att_2=simple_viewer&pid=799462&search_terms=#panel:pa|issue:799462|article:DTL47[Inflation (Luxemburger Wort - 10/7/1946)]
 
 == Population
 
@@ -61,3 +62,5 @@ image::images/land-use-industrial-area.svg[align=center, title-align=center]
 image::images/real-estate-price-appartments.svg[align=center, title-align=center] 
 
 image::images/real-estate-price-vs-land-use.svg[align=center, title-align=center] 
+
+* link:articles/real-estate-1948.html[Zur Lösung der Wohnungsfrage (_Luxemburger Wort - 29/9/1948_)]
