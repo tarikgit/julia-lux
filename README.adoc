@@ -56,3 +56,8 @@ image::images/land-use-industrial-area.svg[align=center, title-align=center]
 
 * link:http://observatoire.liser.lu/prixenregistres.cfm?pageKw=pe_appart_tableaux_recap2[Observed real estate prices] from the _Observatoire de l'habitat_ .
 
+* Data used to produce the plots below can be downloaded link:https://github.com/tarikgit/julia-lux/blob/gh-pages/data/Prix_moyen_au_metre_carre_enregistre_par_commune.csv[here: csv data]
+
+image::images/real-estate-price-appartments.svg[align=center, title-align=center] 
+
+image::images/real-estate-price-vs-land-use.svg[align=center, title-align=center] 
